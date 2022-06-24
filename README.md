@@ -4,9 +4,11 @@ Overview:
 
 The project was developed using python for coding the automation and for database was choosen Mysql
 
-Instructions.
+Instructions:
 
-First it is neccesary to create a database in phpmyadmin named "jobsity".  the user is root and the password is ""
+Please put the file trips.csv on C:/ path.
+
+It is neccesary to create a database in phpmyadmin named "jobsity".  the user is root and the password is ""
 
 Inside the api folder there are the next file:
     create_tables.sql
